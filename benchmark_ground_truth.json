@@ -1,0 +1,125 @@
+[
+  {
+    "case_id": "CASE_001",
+    "raw_narrative": "Patient presents with high fever for 3 days, severe joint pain and a rash on the arms. No cough, no diarrhea.",
+    "expected_chief_complaints": [
+      "high fever",
+      "joint pain",
+      "rash"
+    ],
+    "expected_negatives": [
+      "cough",
+      "diarrhea"
+    ],
+    "gt_icd10": "A90",
+    "gt_snomed": "38362002",
+    "gt_package_code": "MED_INF_A90",
+    "gt_payout_limit_inr": 8500
+  },
+  {
+    "case_id": "CASE_002",
+    "raw_narrative": "Loose motions since yesterday, watery stools, mild stomach cramps. Patient denies blood in stool.",
+    "expected_chief_complaints": [
+      "loose motions",
+      "watery stools",
+      "stomach cramps"
+    ],
+    "expected_negatives": [
+      "blood in stool"
+    ],
+    "gt_icd10": "A09",
+    "gt_snomed": "25374005",
+    "gt_package_code": "MED_INF_A09",
+    "gt_payout_limit_inr": 4500
+  },
+  {
+    "case_id": "CASE_003",
+    "raw_narrative": "Fever with cough and chest pain for 5 days, patient also reports mild breathlessness.",
+    "expected_chief_complaints": [
+      "fever",
+      "cough",
+      "chest pain",
+      "breathlessness"
+    ],
+    "expected_negatives": [],
+    "gt_icd10": "J15.9",
+    "gt_snomed": "53084003",
+    "gt_package_code": "MED_PNEUMONIA_J15",
+    "gt_payout_limit_inr": 15000
+  },
+  {
+    "case_id": "CASE_004",
+    "raw_narrative": "Patient has fever, but no diarrhea or vomiting. Complains of chills and sweating episodes every alternate day.",
+    "expected_chief_complaints": [
+      "fever",
+      "chills",
+      "sweating"
+    ],
+    "expected_negatives": [
+      "diarrhea",
+      "vomiting"
+    ],
+    "gt_icd10": "B54",
+    "gt_snomed": "61462000",
+    "gt_package_code": "MED_INF_B54",
+    "gt_payout_limit_inr": 6000
+  },
+  {
+    "case_id": "CASE_005",
+    "raw_narrative": "sugar problm since 2 yrs, freqent urination n wt loss, no chest pain",
+    "expected_chief_complaints": [
+      "frequent urination",
+      "weight loss"
+    ],
+    "expected_negatives": [
+      "chest pain"
+    ],
+    "gt_icd10": "E11.9",
+    "gt_snomed": "44054006",
+    "gt_package_code": "MED_CHR_E119",
+    "gt_payout_limit_inr": 6000
+  },
+  {
+    "case_id": "CASE_006",
+    "raw_narrative": "Newborn, 3 days old, yellowish discoloration of skin and eyes noticed since morning.",
+    "expected_chief_complaints": [
+      "yellow skin",
+      "yellow eyes"
+    ],
+    "expected_negatives": [],
+    "gt_icd10": "P59.9",
+    "gt_snomed": "13835006",
+    "gt_package_code": "PED_JAUNDICE_P599",
+    "gt_payout_limit_inr": 7500
+  },
+  {
+    "case_id": "CASE_007",
+    "raw_narrative": "BP high on three readings this week, occasional headache, denies chest pain or breathlessness.",
+    "expected_chief_complaints": [
+      "high blood pressure",
+      "headache"
+    ],
+    "expected_negatives": [
+      "chest pain",
+      "breathlessness"
+    ],
+    "gt_icd10": "I10",
+    "gt_snomed": "38341003",
+    "gt_package_code": "MED_CHR_I10",
+    "gt_payout_limit_inr": 4000
+  },
+  {
+    "case_id": "CASE_008",
+    "raw_narrative": "Chronic cough for 6 weeks with evening weight loss and drenching night sweats.",
+    "expected_chief_complaints": [
+      "chronic cough",
+      "weight loss",
+      "night sweats"
+    ],
+    "expected_negatives": [],
+    "gt_icd10": "A15.0",
+    "gt_snomed": "154283005",
+    "gt_package_code": "MED_INF_A150",
+    "gt_payout_limit_inr": 12000
+  }
+]

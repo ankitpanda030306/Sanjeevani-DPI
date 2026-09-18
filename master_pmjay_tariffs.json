@@ -1,0 +1,193 @@
+[
+  {
+    "package_code": "MED_INF_A09",
+    "package_name": "Acute Gastroenteritis Management",
+    "linked_icd10": "A09",
+    "speciality": "General Medicine",
+    "ceiling_inr": 4500,
+    "pre_auth_required": false,
+    "mandatory_investigations": [
+      "Stool routine",
+      "Serum electrolytes"
+    ]
+  },
+  {
+    "package_code": "MED_INF_A90",
+    "package_name": "Dengue Fever Management",
+    "linked_icd10": "A90",
+    "speciality": "General Medicine",
+    "ceiling_inr": 8500,
+    "pre_auth_required": false,
+    "mandatory_investigations": [
+      "CBC with platelet count",
+      "NS1/IgM Dengue"
+    ]
+  },
+  {
+    "package_code": "MED_INF_B54",
+    "package_name": "Malaria Treatment",
+    "linked_icd10": "B54",
+    "speciality": "General Medicine",
+    "ceiling_inr": 6000,
+    "pre_auth_required": false,
+    "mandatory_investigations": [
+      "Peripheral smear",
+      "Rapid malaria antigen test"
+    ]
+  },
+  {
+    "package_code": "MED_INF_A010",
+    "package_name": "Typhoid Fever Management",
+    "linked_icd10": "A01.0",
+    "speciality": "General Medicine",
+    "ceiling_inr": 7000,
+    "pre_auth_required": false,
+    "mandatory_investigations": [
+      "Widal test/blood culture"
+    ]
+  },
+  {
+    "package_code": "MED_INF_A00",
+    "package_name": "Cholera Management",
+    "linked_icd10": "A00",
+    "speciality": "General Medicine",
+    "ceiling_inr": 9500,
+    "pre_auth_required": true,
+    "mandatory_investigations": [
+      "Stool culture",
+      "Serum electrolytes"
+    ]
+  },
+  {
+    "package_code": "MED_INF_A150",
+    "package_name": "Pulmonary Tuberculosis Treatment (DOTS)",
+    "linked_icd10": "A15.0",
+    "speciality": "Pulmonology",
+    "ceiling_inr": 12000,
+    "pre_auth_required": true,
+    "mandatory_investigations": [
+      "Sputum AFB / CBNAAT",
+      "Chest X-ray"
+    ]
+  },
+  {
+    "package_code": "MED_PNEUMONIA_J15",
+    "package_name": "Bacterial Pneumonia Management",
+    "linked_icd10": "J15.9",
+    "speciality": "Pulmonology",
+    "ceiling_inr": 15000,
+    "pre_auth_required": true,
+    "mandatory_investigations": [
+      "Chest X-ray",
+      "CBC"
+    ]
+  },
+  {
+    "package_code": "MED_RESP_J209",
+    "package_name": "Acute Bronchitis Management",
+    "linked_icd10": "J20.9",
+    "speciality": "Pulmonology",
+    "ceiling_inr": 3500,
+    "pre_auth_required": false,
+    "mandatory_investigations": [
+      "Chest X-ray (if indicated)"
+    ]
+  },
+  {
+    "package_code": "MED_RESP_J45909",
+    "package_name": "Acute Asthma Exacerbation Management",
+    "linked_icd10": "J45.909",
+    "speciality": "Pulmonology",
+    "ceiling_inr": 5500,
+    "pre_auth_required": false,
+    "mandatory_investigations": [
+      "Peak expiratory flow rate",
+      "SpO2"
+    ]
+  },
+  {
+    "package_code": "MED_RESP_J449",
+    "package_name": "COPD Exacerbation Management",
+    "linked_icd10": "J44.9",
+    "speciality": "Pulmonology",
+    "ceiling_inr": 18000,
+    "pre_auth_required": true,
+    "mandatory_investigations": [
+      "Chest X-ray",
+      "SpO2",
+      "ABG (if severe)"
+    ]
+  },
+  {
+    "package_code": "MED_CHR_E119",
+    "package_name": "Type 2 Diabetes Mellitus Management",
+    "linked_icd10": "E11.9",
+    "speciality": "General Medicine",
+    "ceiling_inr": 6000,
+    "pre_auth_required": false,
+    "mandatory_investigations": [
+      "Fasting/PP blood glucose",
+      "HbA1c"
+    ]
+  },
+  {
+    "package_code": "MED_CHR_I10",
+    "package_name": "Hypertension Management",
+    "linked_icd10": "I10",
+    "speciality": "General Medicine",
+    "ceiling_inr": 4000,
+    "pre_auth_required": false,
+    "mandatory_investigations": [
+      "Blood pressure monitoring",
+      "ECG"
+    ]
+  },
+  {
+    "package_code": "CARD_IHD_I259",
+    "package_name": "Ischemic Heart Disease Management",
+    "linked_icd10": "I25.9",
+    "speciality": "Cardiology",
+    "ceiling_inr": 25000,
+    "pre_auth_required": true,
+    "mandatory_investigations": [
+      "ECG",
+      "Troponin",
+      "Echocardiogram"
+    ]
+  },
+  {
+    "package_code": "OBS_NORMAL_O80",
+    "package_name": "Normal Delivery Package",
+    "linked_icd10": "O80",
+    "speciality": "Obstetrics",
+    "ceiling_inr": 9000,
+    "pre_auth_required": false,
+    "mandatory_investigations": [
+      "Antenatal records",
+      "Partograph"
+    ]
+  },
+  {
+    "package_code": "PED_JAUNDICE_P599",
+    "package_name": "Neonatal Jaundice Management",
+    "linked_icd10": "P59.9",
+    "speciality": "Pediatrics",
+    "ceiling_inr": 7500,
+    "pre_auth_required": true,
+    "mandatory_investigations": [
+      "Serum bilirubin (total/direct)"
+    ]
+  },
+  {
+    "package_code": "MED_ANEMIA_D509",
+    "package_name": "Iron-Deficiency Anemia Management",
+    "linked_icd10": "D50.9",
+    "speciality": "General Medicine",
+    "ceiling_inr": 3000,
+    "pre_auth_required": false,
+    "mandatory_investigations": [
+      "CBC",
+      "Serum ferritin"
+    ]
+  }
+]
