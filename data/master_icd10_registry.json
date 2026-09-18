@@ -1,0 +1,201 @@
+[
+  {
+    "concept_name": "Acute gastroenteritis",
+    "icd10_code": "A09",
+    "snomed_id": "25374005",
+    "description": "Acute inflammation of the stomach and intestines causing diarrhea and vomiting.",
+    "synonyms": [
+      "watery diarrhea",
+      "loose motions",
+      "stomach infection",
+      "food poisoning",
+      "loose motion",
+      "watery stools"
+    ],
+    "category": "Infectious disease"
+  },
+  {
+    "concept_name": "Dengue fever",
+    "icd10_code": "A90",
+    "snomed_id": "38362002",
+    "description": "Mosquito-borne viral infection causing high fever, rash, and severe joint/muscle pain.",
+    "synonyms": [
+      "breakbone fever",
+      "high fever with body ache",
+      "dengue",
+      "platelet drop fever"
+    ],
+    "category": "Infectious disease"
+  },
+  {
+    "concept_name": "Malaria",
+    "icd10_code": "B54",
+    "snomed_id": "61462000",
+    "description": "Mosquito-borne parasitic disease causing cyclical fever, chills, and sweating.",
+    "synonyms": [
+      "malaria fever",
+      "chills and fever",
+      "cyclical fever"
+    ],
+    "category": "Infectious disease"
+  },
+  {
+    "concept_name": "Typhoid fever",
+    "icd10_code": "A01.0",
+    "snomed_id": "4834000",
+    "description": "Bacterial infection (Salmonella typhi) causing prolonged fever and abdominal pain.",
+    "synonyms": [
+      "typhoid",
+      "prolonged fever with abdominal pain",
+      "enteric fever"
+    ],
+    "category": "Infectious disease"
+  },
+  {
+    "concept_name": "Cholera",
+    "icd10_code": "A00",
+    "snomed_id": "63650001",
+    "description": "Acute bacterial intestinal infection causing severe watery diarrhea and dehydration.",
+    "synonyms": [
+      "rice-water stools",
+      "severe watery diarrhea with dehydration"
+    ],
+    "category": "Infectious disease"
+  },
+  {
+    "concept_name": "Tuberculosis, pulmonary",
+    "icd10_code": "A15.0",
+    "snomed_id": "154283005",
+    "description": "Chronic bacterial infection of the lungs causing persistent cough, weight loss, and night sweats.",
+    "synonyms": [
+      "TB",
+      "chronic cough with weight loss",
+      "night sweats and cough"
+    ],
+    "category": "Infectious disease"
+  },
+  {
+    "concept_name": "Bacterial pneumonia",
+    "icd10_code": "J15.9",
+    "snomed_id": "53084003",
+    "description": "Bacterial infection of the lung causing fever, cough, and difficulty breathing.",
+    "synonyms": [
+      "chest infection",
+      "pneumonia",
+      "lung infection with fever"
+    ],
+    "category": "Respiratory illness"
+  },
+  {
+    "concept_name": "Acute bronchitis",
+    "icd10_code": "J20.9",
+    "snomed_id": "10509002",
+    "description": "Inflammation of the bronchial tubes causing cough and mucus production.",
+    "synonyms": [
+      "chest cold",
+      "bronchitis",
+      "cough with phlegm"
+    ],
+    "category": "Respiratory illness"
+  },
+  {
+    "concept_name": "Asthma, unspecified",
+    "icd10_code": "J45.909",
+    "snomed_id": "195967001",
+    "description": "Chronic airway inflammation causing wheezing, breathlessness, and chest tightness.",
+    "synonyms": [
+      "wheezing",
+      "breathlessness with wheeze",
+      "asthma attack"
+    ],
+    "category": "Respiratory illness"
+  },
+  {
+    "concept_name": "COPD",
+    "icd10_code": "J44.9",
+    "snomed_id": "13645005",
+    "description": "Chronic obstructive pulmonary disease causing long-term breathing difficulty.",
+    "synonyms": [
+      "chronic breathlessness",
+      "COPD",
+      "smoker's lung"
+    ],
+    "category": "Respiratory illness"
+  },
+  {
+    "concept_name": "Type 2 diabetes mellitus",
+    "icd10_code": "E11.9",
+    "snomed_id": "44054006",
+    "description": "Chronic metabolic disorder causing high blood sugar.",
+    "synonyms": [
+      "diabetes",
+      "sugar",
+      "high blood sugar",
+      "polyuria",
+      "diabetic checkup",
+      "t2dm",
+      "hyperglycemia"
+    ],
+    "category": "Chronic condition"
+  },
+  {
+    "concept_name": "Essential hypertension",
+    "icd10_code": "I10",
+    "snomed_id": "38341003",
+    "description": "Chronic elevation of blood pressure.",
+    "synonyms": [
+      "high blood pressure",
+      "BP high",
+      "hypertension"
+    ],
+    "category": "Chronic condition"
+  },
+  {
+    "concept_name": "Ischemic heart disease",
+    "icd10_code": "I25.9",
+    "snomed_id": "414545008",
+    "description": "Reduced blood supply to the heart muscle, often causing chest pain.",
+    "synonyms": [
+      "heart blockage",
+      "chest pain on exertion",
+      "IHD"
+    ],
+    "category": "Chronic condition"
+  },
+  {
+    "concept_name": "Normal delivery",
+    "icd10_code": "O80",
+    "snomed_id": "289096004",
+    "description": "Uncomplicated vaginal delivery of a single healthy infant.",
+    "synonyms": [
+      "normal delivery",
+      "vaginal delivery",
+      "uncomplicated childbirth"
+    ],
+    "category": "Maternal and pediatric"
+  },
+  {
+    "concept_name": "Neonatal jaundice",
+    "icd10_code": "P59.9",
+    "snomed_id": "13835006",
+    "description": "Yellowing of a newborn's skin and eyes due to elevated bilirubin.",
+    "synonyms": [
+      "baby jaundice",
+      "yellow skin newborn",
+      "neonatal jaundice"
+    ],
+    "category": "Maternal and pediatric"
+  },
+  {
+    "concept_name": "Iron-deficiency anemia",
+    "icd10_code": "D50.9",
+    "snomed_id": "87522002",
+    "description": "Anemia caused by insufficient iron, causing fatigue and pallor.",
+    "synonyms": [
+      "low hemoglobin",
+      "anemia",
+      "weakness and pale skin"
+    ],
+    "category": "Maternal and pediatric"
+  }
+]
